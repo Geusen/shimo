@@ -1,0 +1,21 @@
+body {
+	width:7.5in;
+	padding:0.5in;
+}
+
+body > nav {
+	display:none;
+}
+
+.platePair img {
+	float:right;
+	width:3in;
+}
+
+li {
+	margin-bottom:1rem;
+}
+
+hr {
+	margin:1.5rem 0;
+}
